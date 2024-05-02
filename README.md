@@ -16,30 +16,6 @@ This project develops a robust movie recommendation system using machine learnin
 - **Streamlit:** For creating the web application.
 - **Heroku:** For deploying the web application.
 
-## Getting Started
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-- Python 3.8 or higher
-- pip
-
-### Installation
-1. Clone the repo
-   ```sh
-Install Python packages
-sh
-Copy code
-pip install -r requirements.txt
-Usage
-To run the web application locally:
-
-sh
-Copy code
-streamlit run app.py
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-
 License
 Distributed under the MIT License. See LICENSE for more information.
 
