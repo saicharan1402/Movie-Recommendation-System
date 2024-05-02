@@ -14,7 +14,6 @@ This project develops a robust movie recommendation system using machine learnin
 - **Pandas & NumPy:** For data manipulation and numerical operations.
 - **Scikit-Learn:** For implementing machine learning algorithms.
 - **Streamlit:** For creating the web application.
-- **Heroku:** For deploying the web application.
 
 License
 Distributed under the MIT License. See LICENSE for more information.
