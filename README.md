@@ -15,9 +15,6 @@ This project develops a robust movie recommendation system using machine learnin
 - **Scikit-Learn:** For implementing machine learning algorithms.
 - **Streamlit:** For creating the web application.
 
-License
-Distributed under the MIT License. See LICENSE for more information.
-
 Contact
 sai charan - vtu20264@veltech.edu.in
 
@@ -28,8 +25,4 @@ Scikit-Learn
 Streamlit
 vbnet
 Copy code
-
-
-This README template includes basic information about the project, how to set it up and run it locally, how to contribute, licensing, and contact information. Adjust it according to your project's actual details and requirements.
-
 
